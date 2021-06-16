@@ -24,15 +24,14 @@ Here we can clearly see many more details in the converted image, namely,
 <li>The branches of the tree.</li>
 <li>On left and right sides of image, we can clearly see the number of trunks present.</li>
 <li>On left side we can see a tree in "White" color and another tree in the same area colored as "Red" even though both are mixed in the same frame.</li>
+</ul>
 
 <h2>Other examples</h2>
-
-[Lets go to Quora](https://www.quora.com)
 
 <table>
   <tr>
     <td>Original Image</td>
-    <td>Converted Image</td?
+    <td>Converted Image</td>
   </tr>
   <tr>
     <td><img src="https://i.imgur.com/rafJpd6.png"><br/><h6>https://i.imgur.com/rafJpd6.png</h6></td>
@@ -44,10 +43,12 @@ Here we can clearly see many more details in the converted image, namely,
   </tr>
 </table>
 
+
+  
 # Run on your machine
-<l>
-<li>Python 3.5 or higher must be installed</li>
-<li>Install all the packages mentioned in [requirements.txt](https://github.com/aakashvats2910/dark-image-viewer/blob/master/requirements.txt)</li>
-<li>Run main.py, choose the file, after processing complete choose the output folder.</li>
-</ol>
+1. Python 3.5 or higher must be installed<br/>
+2. Install all the packages mentioned in "requirements.txt"<br/>
+```pip install -r requirements.txt```<br/>
+3. Run main.py, choose image, after processing is complete choose the output folder.
+
 
